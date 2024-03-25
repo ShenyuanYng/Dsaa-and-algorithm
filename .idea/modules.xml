@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CA208LAB14/CA208LAB14.iml" filepath="$PROJECT_DIR$/CS208LAB1/CA208LAB14/CA208LAB14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208 LAB10/CS208 LAB10.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208 LAB10/CS208 LAB10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208 LAB6 Bonuse/CS208 LAB6 Bonuse.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208 LAB6 Bonuse/CS208 LAB6 Bonuse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB1.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB11/CS208LAB11.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB11/CS208LAB11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB12/CS208LAB12.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB12/CS208LAB12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB13/CS208LAB13.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB13/CS208LAB13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB4/CS208LAB4.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB4/CS208LAB4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB5/CS208LAB5.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB5/CS208LAB5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB7/CS208LAB7.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB7/CS208LAB7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CS208LAB1/CS208LAB8/CS208LAB8.iml" filepath="$PROJECT_DIR$/CS208LAB1/CS208LAB8/CS208LAB8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DASSlab1.iml" filepath="$PROJECT_DIR$/DASSlab1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2/Java2.iml" filepath="$PROJECT_DIR$/Java2/Java2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database/database.iml" filepath="$PROJECT_DIR$/database/database.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab10 advance graph/lab10 advance graph.iml" filepath="$PROJECT_DIR$/lab10 advance graph/lab10 advance graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab11graph/lab11graph.iml" filepath="$PROJECT_DIR$/lab11graph/lab11graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2/lab1practice/lab1practice.iml" filepath="$PROJECT_DIR$/Java2/lab1practice/lab1practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab2/lab2.iml" filepath="$PROJECT_DIR$/lab2/lab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java2/lab2practice/lab2practice.iml" filepath="$PROJECT_DIR$/Java2/lab2practice/lab2practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3sort/lab3sort.iml" filepath="$PROJECT_DIR$/lab3sort/lab3sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab4/lab4.iml" filepath="$PROJECT_DIR$/lab4/lab4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab5 stack/lab5 stack.iml" filepath="$PROJECT_DIR$/lab5 stack/lab5 stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab6 String/lab6 String.iml" filepath="$PROJECT_DIR$/lab6 String/lab6 String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab7 tree/lab7 tree.iml" filepath="$PROJECT_DIR$/lab7 tree/lab7 tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab8 Advance tree/lab8 Advance tree.iml" filepath="$PROJECT_DIR$/lab8 Advance tree/lab8 Advance tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab9graph/lab9graph.iml" filepath="$PROJECT_DIR$/lab9graph/lab9graph.iml" />
+    </modules>
+  </component>
+</project>
